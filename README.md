@@ -93,3 +93,10 @@ If you find this repository useful in your research/project, please consider cit
       url={https://arxiv.org/abs/2405.14529}, 
 }
 ```
+
+###效果如下：
+![image](https://github.com/zhujiang520/Anomaly-Dinov2/blob/main/picture/1.png)
+![image](https://github.com/zhujiang520/Anomaly-Dinov2/blob/main/picture/2.png)
+
+![image](https://github.com/zhujiang520/Anomaly-Dinov2/blob/main/picture/3.png)
+![image](https://github.com/zhujiang520/Anomaly-Dinov2/blob/main/picture/4.png)
