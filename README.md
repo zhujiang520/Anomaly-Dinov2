@@ -95,4 +95,4 @@ If you find this repository useful in your research/project, please consider cit
 ```
 
 ###效果如下：
-<img src="https://github.com/zhujiang520/Anomaly-Dinov2/blob/main/picture/1.png" width="180" height="105"><img src="https://github.com/zhujiang520/Anomaly-Dinov2/blob/main/picture/2.png" width="180" height="105"><img src="https://github.com/zhujiang520/Anomaly-Dinov2/blob/main/picture/3.png" width="180" height="105"/><img src="https://github.com/zhujiang520/Anomaly-Dinov2/blob/main/picture/4.png" width="180" height="105"/>
+<img src="https://github.com/zhujiang520/Anomaly-Dinov2/blob/main/picture/1.png" width="318" height="293"><img src="https://github.com/zhujiang520/Anomaly-Dinov2/blob/main/picture/2.png" width="318" height="293"><img src="https://github.com/zhujiang520/Anomaly-Dinov2/blob/main/picture/3.png" width="318" height="293"/><img src="https://github.com/zhujiang520/Anomaly-Dinov2/blob/main/picture/4.png" width="318" height="293"/>
